@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Begonya</string>
+    <string name="logIn">Login</string>
+    <string name="logOut">Log out</string>
+    <string name="app_id">1:429657893773:android:5a408fecc5c5ebb5</string>
+    <string name="textview">TextView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+
+
+</resources>

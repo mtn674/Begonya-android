@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "429657893773",
+    "firebase_url": "https://begonya-674.firebaseio.com",
+    "project_id": "begonya-674",
+    "storage_bucket": "begonya-674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429657893773:android:5a408fecc5c5ebb5",
+        "android_client_info": {
+          "package_name": "com.example.metinatac.begonya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429657893773-h7n8apj26752c4tb8mnjaqdpn6mmrp9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.metinatac.begonya",
+            "certificate_hash": "c981950dc4cfb3725b92ebd4647bb8b6748a08f5"
+          }
+        },
+        {
+          "client_id": "429657893773-gqghiqu8t2c62dl6jogo6iodhrscaccm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCK4M2iWvQiiDW_e_gpsCmvFsduWpxTf4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429657893773-gqghiqu8t2c62dl6jogo6iodhrscaccm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429657893773-msoki0gndnbvt1br39bb60q1f7jtljdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "MA.Begonya"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
